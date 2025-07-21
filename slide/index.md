@@ -49,10 +49,23 @@ style: |
 
 ---
 
+<!-- 講演者紹介 -->
+
+![bg right:40% 50%](images/self-stand.jpg)
+
+**Who am I**
+- Hiroshi Miura
+- **OpenStreetMap Japan** from 18 years ago
+- Lead **developer** of translation assist application
+- President of **OSM Foundation Japan**
+- reach me at LinkedIn(@miurahr)
+
+---
+
 <!-- Opening Hook -->
 
-## 770+ Weeks of 
-## Never Missing a Beat
+### **770+ Weeks** of 
+## **Never** Missing a Beat
 
 ---
 
@@ -92,7 +105,7 @@ style: |
 
 ## More Than Just News
 
-![bg right:40% 80%](images/newsletter-sample.png)
+![bg right:40% 80%](images/weeklyosm-taiwan.png)
 
 - **Community spotlight**
 - **Technical developments**
@@ -103,9 +116,14 @@ style: |
 
 ---
 
+![](images/weeklyosm-taiwan.png)
+
+---
+
 <!-- Taiwan's Role -->
 
-![bg right:30% 50%](images/taiwan-osm-contributors.png)
+<!-- ![bg right:30% 50%](images/taiwan-osm-contributors.png)
+-->
 
 ## Taiwan's Role in the Global Story
 
@@ -113,20 +131,18 @@ style: |
 - Active translation team
 - Local community events → international news
 - Bridge between APAC communities
-- Cultural adaptation expertise
 - Night markets to global maps
 
 ---
 
-### Taiwan Community Contributions
+### The Taiwan News
 
 ![bg right:40% 70%](images/taiwan-osm-example.png)
 
 **Recent Taiwan Features:**
 - Wikidata Taiwan collaboration in #763, #773
 - Mapper interview in #665
-- Night market mapping projects
-- Community meetup coverage
+- Community meetup
 
 *From local knowledge to global audience*
 
@@ -149,18 +165,25 @@ style: |
 
 ---
 
-## Meet OSMBC: Our Secret Weapon
+## Meet OSMBC: 
+
+### Our Secret Weapon
 
 ![bg right:40% 90%](images/osmbc-editor-image.png)
 
 **OSMBC Tool Features:**
 - Collaborative news collection
 - Multi-language workflow
-- Review and approval system
+- Review system
 - Publishing automation
-- Version control for articles
 
 **Live Demo Time!**
+
+---
+
+## **Live Demo Time!**
+
+![](images/osmbc-editor-image.png)
 
 ---
 
@@ -168,50 +191,18 @@ style: |
 
 ![center 90%](images/way-to-build-news.svg)
 
-**Monday-Sunday Process:**
-- Collection → Writing → Review → Translation → Publishing
-- Cross-timezone coordination
-- Quality assurance at every step
-
 ---
 
-### Technical Workflow
+## My challenge
 
-- Gather and write article
-<div class="mermaid">
-graph LR
-    A[News Sources] --> B[OSMBC Collection]
-    B --> C[English Writing]
-    C --> D[Fact checks]
-    style A fill:#fff2b2,stroke:#333
-    style B fill:#fff2b2,stroke:#333
-    style C fill:#fff2b2,stroke:#333
-    style D fill:#fff2b2,stroke:#333
-</div>
-
-- Translate article
-<div class="mermaid">
-graph LR
-    A[Content] --> B[Translation]
-    B --> C[Review and comments]
-    C --> D[Multi-language Publish]
-    style A fill:#e6e6fa,stroke:#333
-    style B fill:#e6e6fa,stroke:#333
-    style C fill:#e6e6fa,stroke:#333
-    style D fill:#e6e6fa,stroke:#333
-</div>
-
----
-
-## My challenge: productivity
-
-![bg right:40% 80%](images/translation-workflow.png)
+### productivity
 
 **Professional Translation Process:**
 - **OmegaT** (Computer-Aided Translation)
-- Translation memories
-- Terminology management
-- Quality assurance checks
+    - (New) AI-assisted translation
+    - Terminology management
+    - Translation memories
+    - Dictionary lookups
 
 ---
 
@@ -224,15 +215,9 @@ graph LR
 
 <!-- Team Structure -->
 
-## weeklyOSM Team Structure
+## weeklyOSM Team
 
-![center 90%](images/team-structure.svg)
-
-**Distributed Global Team:**
-- Editorial coordinators
-- Language team leads
-- Technical reviewers
-- Translation volunteers
+![center 110%](images/team-structure.svg)
 
 ---
 
@@ -241,29 +226,11 @@ graph LR
 ## The Real Challenges
 
 **Weekly Pressure Cooker:**
+
 - 🕒 **Tight deadlines** - every single week
 - 🌍 **Timezone coordination** across continents
 - 👥 **Volunteer management** - life happens
 - 🔄 **Consistent quality** with rotating contributors
-
----
-
-## Technical Challenges & Solutions
-
-**Infrastructure Issues:**
-```yaml
-Challenges:
-  - Server maintenance during production
-  - Multi-language encoding issues
-  - Large media file handling
-  - Cross-platform compatibility
-
-Solutions:
-  - Automated backup systems
-  - Unicode standardization
-  - CDN for media distribution
-  - Progressive web app architecture
-```
 
 ---
 
@@ -275,60 +242,40 @@ Solutions:
 - **Knowledge transfer** - preserving institutional memory
 - **Quality vs. speed** - maintaining standards under pressure
 
-**Our Approach:**
-- Mentorship programs
-- Flexible commitment levels
-- Documentation-first culture
-- Community support networks
-
----
-
-<!-- Success Stories -->
-
-## Success Stories from Taiwan
-
-![bg right:40% 70%](images/taiwan-success.png)
-
-**Impact Examples:**
-- Local typhoon mapping → global disaster response patterns
-- Night market documentation → cultural mapping guidelines
-- Community tool development → international adoption
-- Translation innovations → multilingual best practices
-
 ---
 
 <!-- Looking Forward -->
 
-## The Future of Community News
+## The Future
 
 **Technology Opportunities:**
 - AI-assisted translation (with human oversight)
-- Automated content aggregation
 - Real-time collaboration improvements
 - Mobile-first editing experience
 
 **Community Growth:**
 - More regional contributors
-- Specialized topic coverage
-- Interactive content formats
+- Topic coverage from Asia
 - Video/multimedia integration
 
 ---
 
-## Lessons Learned (10+ Years)
+## Lessons Learned
 
 **What Works:**
 ✅ Consistent schedule builds habit
 ✅ Quality over quantity
 ✅ Community ownership
 ✅ Technical tools enable scale
-✅ Cultural sensitivity matters
+
+---
+
+## Lessons Learned
 
 **What's Hard:**
 ❌ Sustainable volunteer engagement
-❌ Technical debt management
-❌ Keeping content fresh
-❌ Balancing depth vs accessibility
+❌ Priority for Life and editing
+❌ Communication gaps
 
 ---
 
@@ -342,7 +289,9 @@ Solutions:
 - Mobile app development
 - Analytics and metrics
 
-## Join the Story - Multiple Ways
+---
+
+## Join the Story
 
 **For Writers:**
 - Article writing and editing
@@ -351,7 +300,7 @@ Solutions:
 
 ---
 
-## Join the Story - Taiwan
+## Join the Story
 
 **For Taiwan Community:**
 - 🇹🇼 **Translation team** - help with Traditional Chinese
@@ -364,8 +313,8 @@ Solutions:
 ## Getting started
 
 - Email: info@weeklyosm.eu
+- Telegram: t.me/OSMTaiwan
 - Facebook: https://www.facebook.com/openstreetmaptaiwan
-- Telegram: @WeeklyOSM_Taiwan
 
 ---
 
