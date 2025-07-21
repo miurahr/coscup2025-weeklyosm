@@ -17,7 +17,7 @@ style: |
             right 30px top 30px,
             bottom right;
     background-size:
-            200px 100px,
+            250px 130px,
             1366px;
     background-repeat: no-repeat;
   }
@@ -40,18 +40,19 @@ style: |
 ---
 
 ## Agenda
-1. 770+ Weeks of Never Missing a Beat
+1. The fact of 780+ Weeks
 2. What is weeklyOSM?
-3. Taiwan's Role in the Global Story
 4. The Magic Behind the Curtain
-5. Technical Deep Dive: OSMBC Tool
-6. Challenges & Solutions
+5. Deep Dive: OSMBC Tool
+6. My Challenge: productivity
 7. Join the Story
 
 ---
 
 <!-- Opening Hook -->
-## 770+ Weeks of Never Missing a Beat
+
+## 770+ Weeks of 
+## Never Missing a Beat
 
 ---
 
@@ -59,7 +60,6 @@ style: |
 
 ---
 
-![bg right:30% 60%](images/weeklyosm-global-map.png)
 
 ## The Global Pulse of OpenStreetMap
 
@@ -67,6 +67,10 @@ style: |
 - **Local stories → Global impact**
 - **Community heartbeat**
 - **Volunteer-driven journalism**
+
+---
+
+![bg right:](images/weeklyosm-global-map.png)
 
 ---
 
@@ -116,14 +120,13 @@ style: |
 
 ### Taiwan Community Contributions
 
-![bg right:40% 70%](images/taiwan-osm-examples.png)
+![bg right:40% 70%](images/taiwan-osm-example.png)
 
 **Recent Taiwan Features:**
-- Typhoon response mapping
+- Wikidata Taiwan collaboration in #763, #773
+- Mapper interview in #665
 - Night market mapping projects
 - Community meetup coverage
-- Technical tool contributions
-- Cultural site documentation
 
 *From local knowledge to global audience*
 
@@ -131,21 +134,24 @@ style: |
 
 <!-- Technical Deep Dive -->
 
-## The Magic Behind the Curtain
+## Behind the Curtain
 
 ![center 80%](images/news-collection.svg)
 
+
+<!--
 **News Collection Process**
 - OSM diaries monitoring
 - Community channels scanning
 - Social media tracking
 - Direct submissions
+-->
 
 ---
 
 ## Meet OSMBC: Our Secret Weapon
 
-![bg right:40% 80%](images/osmbc-interface.png)
+![bg right:40% 90%](images/osmbc-editor-image.png)
 
 **OSMBC Tool Features:**
 - Collaborative news collection
@@ -169,21 +175,35 @@ style: |
 
 ---
 
-### Technical Architecture
+### Technical Workflow
 
-```mermaid
-graph TD
+- Gather and write article
+<div class="mermaid">
+graph LR
     A[News Sources] --> B[OSMBC Collection]
     B --> C[English Writing]
-    C --> D[Technical Review]
-    D --> E[Translation Teams]
-    E --> F[Final Review]
-    F --> G[Multi-language Publishing]
-    G --> H[Distribution Channels]
-```
+    C --> D[Fact checks]
+    style A fill:#fff2b2,stroke:#333
+    style B fill:#fff2b2,stroke:#333
+    style C fill:#fff2b2,stroke:#333
+    style D fill:#fff2b2,stroke:#333
+</div>
+
+- Translate article
+<div class="mermaid">
+graph LR
+    A[Content] --> B[Translation]
+    B --> C[Review and comments]
+    C --> D[Multi-language Publish]
+    style A fill:#e6e6fa,stroke:#333
+    style B fill:#e6e6fa,stroke:#333
+    style C fill:#e6e6fa,stroke:#333
+    style D fill:#e6e6fa,stroke:#333
+</div>
+
 ---
 
-## Translation Workflow Deep Dive
+## My challenge: productivity
 
 ![bg right:40% 80%](images/translation-workflow.png)
 
@@ -192,7 +212,6 @@ graph TD
 - Translation memories
 - Terminology management
 - Quality assurance checks
-- Cultural adaptation
 
 ---
 
@@ -200,14 +219,6 @@ graph TD
 
 <iframe src="https://player.vimeo.com/video/1054512440?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="390" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="OSMBC Demo"></iframe>
 
-
----
-
-### Tools in Action
-
-- Real-time collaboration
-- Quality control processes
-- Cross-language coordination
 
 ---
 
@@ -323,23 +334,24 @@ Solutions:
 
 <!-- Call to Action -->
 
-## Join the Story - Multiple Ways to Contribute
+## Join the Story - Multiple Ways
 
 **For Developers:**
 - OSMBC tool improvements
-- Translation workflow automation
+- Tool to help Translation
 - Mobile app development
 - Analytics and metrics
 
+## Join the Story - Multiple Ways
+
 **For Writers:**
 - Article writing and editing
-- Technical documentation
 - Community story coverage
-- Interview coordination
+- Translate to Chinese
 
 ---
 
-## Join the Story - Taiwan Specific
+## Join the Story - Taiwan
 
 **For Taiwan Community:**
 - 🇹🇼 **Translation team** - help with Traditional Chinese
@@ -347,51 +359,21 @@ Solutions:
 - 🔧 **Technical contributions** - improve tools and processes
 - 🎤 **Community liaison** - connect local and global stories
 
-**Get Started:**
-- Email: taiwan@weeklyosm.eu
+---
+
+## Getting started
+
+- Email: info@weeklyosm.eu
+- Facebook: https://www.facebook.com/openstreetmaptaiwan
 - Telegram: @WeeklyOSM_Taiwan
-- GitHub: github.com/weeklyOSM
 
 ---
 
-## Technical Contribution Opportunities
+## Resources and next
 
-```javascript
-// Example: OSMBC Enhancement Ideas
-const contributionOpportunities = {
-  frontend: [
-    "Mobile-responsive editing interface",
-    "Real-time collaboration features",
-    "Improved translation workflow UI"
-  ],
-  backend: [
-    "API improvements",
-    "Automated content aggregation",
-    "Performance optimizations"
-  ],
-  infrastructure: [
-    "CI/CD pipeline enhancements",
-    "Monitoring and alerting",
-    "Scalability improvements"
-  ]
-};
-```
-
----
-
-## Resources & Next Steps
-
-![bg right:30% 60%](images/resources-qr.png)
-
-**Links:**
-- 📰 weeklyOSM: https://weeklyosm.eu/
-- 🛠️ OSMBC tool: https://osmbc.openstreetmap.de/
-- 💬 Contribute: https://weeklyosm.eu/en/contribute
-- 📧 Contact: weeklyosm@openstreetmap.de
-
-**This Presentation:**
-- Slides: [your-github-url]
-- Source: [your-repo-url]
+- 📰 weeklyOSM: https://weeklyosm.eu
+- 🛠️ OSMBC: https://osmbc.openstreetmap.de
+- Slides: miurahr.github.io/coscup2025-osmweekly
 
 ---
 
@@ -400,8 +382,6 @@ const contributionOpportunities = {
 <!-- _paginate: false -->
 <!-- _header: '' -->
 <!-- _footer: '' -->
-
-![bg right:40% 60%](images/weeklyosm-logo-large.png)
 
 # Every Week, Every Community, Every Mapper
 
@@ -414,7 +394,7 @@ const contributionOpportunities = {
 
 <!-- Backup Slides -->
 
-## Backup: Technical Stack Details
+## Technical Stack Details
 
 **Frontend:**
 - Vue.js for reactive UI
@@ -426,24 +406,18 @@ const contributionOpportunities = {
 - PostgreSQL for data storage
 - Redis for caching
 
-**Infrastructure:**
-- Docker containers
-- Nginx reverse proxy
-- Automated SSL certificates
-
 ---
 
-## Translation Statistics
+## Statistics
 
-| Language | Contributors | Issues Translated | Completion Rate |
-|----------|--------------|-------------------|-----------------|
-| German   | 10           | 440+              | %               |
-| Japanese | 6            | 00+              | %               |
-| Chinese  | 4            | 260+              | %               |
-| Spanish  | 10           | 560+              | %               |
+ - Translation Statistics after internationaled in 2014
 
-**Taiwanese are crucial for OSM News!**
-
+| Language            | Contributors | Issues  | Start Date   |
+|---------------------|--------------|---------|--------------|
+| German              | 10           | 560+    | 2010(launch) |
+| French              | 11           | 450+    | 2016.10      | 
+| Japanese            | 6            | 560+    | 2014.10      |
+| Traditional Chinese | 4            | 260+    | 2020.6       |
 
 ---
 
