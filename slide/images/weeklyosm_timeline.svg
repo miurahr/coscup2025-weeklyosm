@@ -158,9 +158,8 @@
   </text>
   
   <!-- Taiwan flag highlight -->
-  <rect x="300" y="480" width="200" height="40" rx="20" fill="#FF6B6B" opacity="0.1"/>
-  <text x="400" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FF6B6B">
-    🇹🇼 Taiwan: A Key Contributor to Global OSM News
+  <text x="400" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FF6B6B">
+    🇹🇼 Taiwan: A Key Contributor to Global OSM World
   </text>
   
   <!-- Decorative elements -->

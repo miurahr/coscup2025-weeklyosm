@@ -51,20 +51,11 @@ style: |
 ---
 
 <!-- Opening Hook -->
-
-![bg right:](images/weeklyosm_timeline.svg)
+## 770+ Weeks of Never Missing a Beat
 
 ---
 
-## 770+ Weeks of Never Missing a Beat
-
-**October 2014 → August 2025**
-- **770+ issues published**
-- **15+ languages**
-- **Zero missed weeks**
-- **Global volunteer network**
-
-*What does it take to publish something every single week for over 10 years?*
+![bg left:](images/weeklyosm_timeline.svg)
 
 ---
 
@@ -190,13 +181,6 @@ graph TD
     F --> G[Multi-language Publishing]
     G --> H[Distribution Channels]
 ```
-
-**Built on:**
-- Node.js backend
-- Collaborative editing interface
-- Git-based version control
-- Automated publishing pipeline
-
 ---
 
 ## Translation Workflow Deep Dive
@@ -216,7 +200,11 @@ graph TD
 
 <iframe src="https://player.vimeo.com/video/1054512440?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="390" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="OSMBC Demo"></iframe>
 
-**Tools in Action:**
+
+---
+
+### Tools in Action
+
 - Real-time collaboration
 - Quality control processes
 - Cross-language coordination
@@ -445,17 +433,19 @@ const contributionOpportunities = {
 
 ---
 
-## Backup: Translation Statistics
+## Translation Statistics
 
 | Language | Contributors | Issues Translated | Completion Rate |
-|----------|-------------|-------------------|----------------|
-| German   | 15          | 770+              | 100%           |
-| French   | 12          | 750+              | 97%            |
-| Japanese | 8           | 600+              | 78%            |
-| Chinese  | 6           | 400+              | 52%            |
-| Spanish  | 10          | 500+              | 65%            |
+|----------|--------------|-------------------|-----------------|
+| German   | 10           | 440+              | %               |
+| Japanese | 6            | 00+              | %               |
+| Chinese  | 4            | 260+              | %               |
+| Spanish  | 10           | 560+              | %               |
 
-**Taiwan contributors are crucial for Chinese translations!**
+**Taiwanese are crucial for OSM News!**
+
+
+---
 
 <script src="https://player.vimeo.com/api/player.js"></script>
 <script type="module">
