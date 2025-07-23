@@ -312,17 +312,10 @@ style: |
 
 ## Getting started
 
-- Email: info@weeklyosm.eu
-- Telegram: t.me/OSMTaiwan
+- Web:  https://osm.tw/
+- Telegram: https://t.me/OSMTaiwan
 - Facebook: https://www.facebook.com/openstreetmaptaiwan
-
----
-
-## Resources and next
-
 - 📰 weeklyOSM: https://weeklyosm.eu
-- 🛠️ OSMBC: https://osmbc.openstreetmap.de
-- Slides: miurahr.github.io/coscup2025-osmweekly
 
 ---
 
@@ -337,6 +330,8 @@ style: |
 ## Thank You!
 ### Questions & Discussion
 
+- Slides: miurahr.github.io/coscup2025-osmweekly
+- 
 **Let's keep the OSM world connected**
 
 ---
