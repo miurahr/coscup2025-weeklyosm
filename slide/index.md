@@ -140,9 +140,9 @@ style: |
 ![bg right:40% 70%](images/taiwan-osm-example.png)
 
 **Recent Taiwan Features:**
+- Local chapter proposal in #784
 - Wikidata Taiwan collaboration in #763, #773
 - Mapper interview in #665
-- Community meetup
 
 *From local knowledge to global audience*
 
