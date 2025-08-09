@@ -96,7 +96,7 @@ style: |
 **OSM's Weekly News Source**
 - For **everyone** - beginners to experts
 - **15 languages** (translation volunteers essential)
-- **Independent** from organizations/companies
+- **Independent** of organizations/companies
 - **52 issues per year** (no breaks!)
 
 **https://weeklyosm.eu/**
