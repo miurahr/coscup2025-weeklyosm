@@ -240,7 +240,7 @@ style: |
 - **Contributor lifecycle** - onboarding to retention
 - **Burnout prevention** - sustainable volunteering
 - **Knowledge transfer** - preserving institutional memory
-- **Quality vs. speed** - maintaining standards under pressure
+- **Quality vs. Speed** - maintaining standards under pressure
 
 ---
 
@@ -250,13 +250,11 @@ style: |
 
 **Technology Opportunities:**
 - AI-assisted translation (with human oversight)
-- Real-time collaboration improvements
-- Mobile-first editing experience
+- Team collaboration improvements
 
 **Community Growth:**
 - More regional contributors
 - Topic coverage from Asia
-- Video/multimedia integration
 
 ---
 
@@ -316,6 +314,7 @@ style: |
 - Telegram: https://t.me/OSMTaiwan
 - Facebook: https://www.facebook.com/openstreetmaptaiwan
 - 📰 weeklyOSM: https://weeklyosm.eu
+- State of the Map 2025, Manila: https://2025.stateofthemap.org/
 
 ---
 
@@ -327,16 +326,26 @@ style: |
 
 # Every Week, Every Community, Every Mapper
 
-## Thank You!
-### Questions & Discussion
+![bg right:30% 40%](images/presentation-url.png)
 
-- Slides: miurahr.github.io/coscup2025-osmweekly
-- 
 **Let's keep the OSM world connected**
 
 ---
 
 <!-- Backup Slides -->
+
+## Statistics
+
+ - Translation Statistics after internationaled in 2014
+
+| Language            | Contributors | Issues  | Start Date   |
+|---------------------|--------------|---------|--------------|
+| German              | 10           | 560+    | 2010(launch) |
+| French              | 11           | 450+    | 2016.10      | 
+| Japanese            | 6            | 560+    | 2014.10      |
+| Traditional Chinese | 4            | 260+    | 2020.6       |
+
+---
 
 ## Technical Stack Details
 
@@ -349,19 +358,6 @@ style: |
 - Node.js with Express
 - PostgreSQL for data storage
 - Redis for caching
-
----
-
-## Statistics
-
- - Translation Statistics after internationaled in 2014
-
-| Language            | Contributors | Issues  | Start Date   |
-|---------------------|--------------|---------|--------------|
-| German              | 10           | 560+    | 2010(launch) |
-| French              | 11           | 450+    | 2016.10      | 
-| Japanese            | 6            | 560+    | 2014.10      |
-| Traditional Chinese | 4            | 260+    | 2020.6       |
 
 ---
 
