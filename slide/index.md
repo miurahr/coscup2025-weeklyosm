@@ -64,8 +64,9 @@ style: |
 
 <!-- Opening Hook -->
 
-### **770+ Weeks** of 
-## **Never** Missing a Beat
+<div style="font-size: 120px;">
+<span style="color: blue;font-weight: bold;">780+ Weeks</span> of <br/> <span style="color: green; font-weight: bold;">Never</span> Missing a Beat
+</div>
 
 ---
 
@@ -73,6 +74,11 @@ style: |
 
 ---
 
+<!-- We connect mappers worldwide.-->
+<!-- OSM mappers live in Local and produce stories; mapping event, seminar etc -->
+<!-- We bring local story to glocal -->
+<!-- We believe we are community heartbeat like deliver blood -->
+<!-- lastly this is journalism of OSM -->
 
 ## The Global Pulse of OpenStreetMap
 
@@ -88,6 +94,9 @@ style: |
 ---
 
 <!-- What is weeklyOSM -->
+<!-- we are the media For everyone -->
+<!-- we are independent of any organization even OSMF -->
+<!-- 15 languages we delivers -->
 
 ![bg right:30% 60%](images/weeklyosm-qr.png)
 
@@ -105,6 +114,12 @@ style: |
 
 ## More Than Just News
 
+<!-- It is not just a news -->
+<!-- this is community spotlight -->
+<!-- We deliver a story of local mapping events and projects -->
+<!-- we have our own OSS tool to deliver news -->
+
+
 ![bg right:40% 80%](images/weeklyosm-taiwan.png)
 
 - **Community spotlight**
@@ -118,9 +133,16 @@ style: |
 
 ![](images/weeklyosm-taiwan.png)
 
+<!-- We live in world wide -->
+<!-- truly distributed team -->
+
 ---
 
 <!-- Taiwan's Role -->
+<!-- Taiwan is a good geolocation and it keeps active mapping --> 
+<!-- Your local event and activities to global news -->
+<!-- You can educate not only local mappers also neiborhood countries through weeklyOSM -->
+<!-- Please imagine night market mapping party. You can impact night merket into global news -->
 
 <!-- ![bg right:30% 50%](images/taiwan-osm-contributors.png)
 -->
@@ -148,7 +170,9 @@ style: |
 
 ---
 
-<!-- Technical Deep Dive -->
+<!-- Lets got to Technical Deep Dive -->
+<!-- Chat to explain where we gather news-->
+<!-- and where is it to go -->
 
 ## Behind the Curtain
 
@@ -178,6 +202,13 @@ style: |
 - Publishing automation
 
 **Live Demo Time!**
+
+<!--
+OSMB:
+* news gathering, authoring and translating, review.
+* publishing
+* automation
+-->
 
 ---
 
