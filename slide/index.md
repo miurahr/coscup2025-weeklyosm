@@ -257,21 +257,13 @@ OSMB:
 ## The Real Challenges
 
 **Weekly Pressure Cooker:**
-
 - 🕒 **Tight deadlines** - every single week
 - 🌍 **Timezone coordination** across continents
-- 👥 **Volunteer management** - life happens
 - 🔄 **Consistent quality** with rotating contributors
 
----
-
-## Community Challenges
-
 **Human Factors:**
-- **Contributor lifecycle** - onboarding to retention
-- **Burnout prevention** - sustainable volunteering
-- **Knowledge transfer** - preserving institutional memory
-- **Quality vs. Speed** - maintaining standards under pressure
+- 👥 **Burnout prevention** - sustainable volunteering
+- **Knowledge transfer** - preserving know-how
 
 ---
 
@@ -293,39 +285,11 @@ OSMB:
 
 **What Works:**
 ✅ Consistent schedule builds habit
-✅ Quality over quantity
-✅ Community ownership
 ✅ Technical tools enable scale
-
----
-
-## Lessons Learned
 
 **What's Hard:**
 ❌ Sustainable volunteer engagement
 ❌ Priority for Life and editing
-❌ Communication gaps
-
----
-
-<!-- Call to Action -->
-
-## Join the Story - Multiple Ways
-
-**For Developers:**
-- OSMBC tool improvements
-- Tool to help Translation
-- Mobile app development
-- Analytics and metrics
-
----
-
-## Join the Story
-
-**For Writers:**
-- Article writing and editing
-- Community story coverage
-- Translate to Chinese
 
 ---
 
